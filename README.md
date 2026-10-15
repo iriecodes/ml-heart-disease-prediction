@@ -10,7 +10,7 @@ Binary classification of heart disease using **SVM**, **Logistic Regression** an
 - **Features:** Age, Gender, BloodPressure, Cholesterol, HeartRate, QuantumPatternFeature
 - **Target:** `HeartDisease` (0 = not present, 1 = present)
 
-> The dataset appears to be synthetic, so results show the modeling workflow rather than clinical performance.
+> The dataset is synthetic, so results show the modeling workflow rather than clinical performance.
 
 X shape: (500, 6)
 y shape: (500,)

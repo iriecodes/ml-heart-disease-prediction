@@ -40,7 +40,9 @@ SVC Accuracy score: 0.94
 SVC Recall score: 0.9
 
 [[40  0]
- [ 6 54]]
+
+[ 6 54]]
+
 SVC missed 6 cases of heart disease (false negatives)
 
               precision    recall  f1-score   support
@@ -72,7 +74,9 @@ Logistic Regression Accuracy score: 0.95
 Logistic Regression Recall score: 0.9166666666666666
 
 [[40  0]
- [ 5 55]]
+
+[ 5 55]]
+
 Logistic Regression missed 5 cases of heart disease (false negatives)
 
               precision    recall  f1-score   support
@@ -94,7 +98,9 @@ Random Forest Accuracy score: 0.93
 Random Forest Recall score: 0.8833333333333333
 
 [[40  0]
- [ 7 53]]
+
+[ 7 53]]
+
 Random Forest missed 7 cases of heart disease (false negatives)
 
               precision    recall  f1-score   support
